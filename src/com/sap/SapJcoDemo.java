@@ -24,10 +24,10 @@ public class SapJcoDemo
     {        
         // logon parameters and other properties
         Properties connProps = new Properties();
-        connProps.setProperty(DestinationDataProvider.JCO_ASHOST, "100.100.80.90");
+        connProps.setProperty(DestinationDataProvider.JCO_ASHOST, "100.100.100.100");
         connProps.setProperty(DestinationDataProvider.JCO_SYSNR, "00");
-        connProps.setProperty(DestinationDataProvider.JCO_USER, "AJ");
-        connProps.setProperty(DestinationDataProvider.JCO_PASSWD, "ahao1983");
+        connProps.setProperty(DestinationDataProvider.JCO_USER, "***");
+        connProps.setProperty(DestinationDataProvider.JCO_PASSWD, "******");
         connProps.setProperty(DestinationDataProvider.JCO_CLIENT, "810");
         connProps.setProperty(DestinationDataProvider.JCO_LANG, "EN");
         return connProps;
