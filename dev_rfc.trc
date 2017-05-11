@@ -1,0 +1,10 @@
+
+**** ERROR file opened at 20170501 151147 中国标准时间, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:9520 Error in program 'javaw': ======> Invalid value in SIGN field of value table for IN itab operator. operator.
+T:9520 Error in program 'javaw': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:9520 Error in program 'javaw': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at 20170501 151254 中国标准时间, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:3376 Error in program 'javaw': ======> Invalid value in SIGN field of value table for IN itab operator. operator.
+T:3376 Error in program 'javaw': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:3376 Error in program 'javaw': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
